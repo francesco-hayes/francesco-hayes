@@ -1,6 +1,6 @@
 # Hey, I'm Francesco 👋
 
-**Co-Founder & CTO** at [Luxxera](https://luxxera.com) • **Founder** at [Alowh](https://alowh.com) • **Fractional CTO**
+**Co-Founder & CTO** at [Luxxera](https://luxxera.com)
 
 For most people, it's coffee, but for me, it's **chocolate milk**. I usually drink at least two glasses a day — it's the fuel that pushes my creativity for impactful products.
 
