@@ -57,7 +57,7 @@ Before that I ran a development agency for nearly seven years, so I've watched a
 
 | Role | Company | Focus |
 |------|---------|-------|
-| Co-Founder & CTO, now Advisor | **Luxxera** | Built the engineering function from zero. Hired four engineers, set delivery and review norms, shipped a healthcare marketplace to $100K MRR in six months |
+| Co-Founder & CTO | **Luxxera** | Built the engineering function from zero. Hired the engineers, set delivery and review norms, shipped a healthcare marketplace |
 | Founder | **Alowh** | Development agency for nearly seven years. 20+ clients across nonprofit, education, healthcare, and government, including U.S. government contracts |
 | ML Scientist | **Ellucian** | Built a production prediction model behind a scheduling product the State of Georgia adopted |
 | Lead Developer | **Southern Virginia University** | Grew from engineer to lead. Internal dashboard cut content-publishing turnaround from days to under a day. Migrated sites to Vue and led cloud migrations |
