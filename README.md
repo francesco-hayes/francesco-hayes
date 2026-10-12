@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/@FrancescoHayes__-000000.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/FrancescoHayes_)
 [![Cal.com](https://img.shields.io/badge/Book_a_Call-292929.svg?&style=for-the-badge&logo=cal.com&logoColor=white)](https://cal.com/francescohayes)
 
-I was the founding **CTO** at [Luxxera](https://luxxera.com), a healthcare marketplace that connects patients with vetted clinics abroad. I built the engineering team from zero, handed off day-to-day delivery to the team I hired, and moved to an advisory seat in July 2026.
+I was the founding **CTO** at [Luxxera](https://luxxera.com), a healthcare marketplace that connects patients with clinics abroad. I built the engineering team from zero, and handed off day-to-day delivery to the team I hired.
 
 Now I'm looking to lead an engineering team inside a larger product organization. Somewhere the habits of a lean startup, small teams and high ownership, compound at bigger scale.
 
