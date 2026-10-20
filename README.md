@@ -15,7 +15,6 @@ For most people it's coffee. For me it's **chocolate milk**. At least two glasse
 
 ### Currently 🔭
 
-- 🏥 Advising [Luxxera](https://luxxera.com)
 - 💼 Open to Engineering Manager, Senior EM, and Head of Engineering roles
 - 📝 Still figuring out LinkedIn
 
@@ -25,7 +24,7 @@ For most people it's coffee. For me it's **chocolate milk**. At least two glasse
 
 I build and run engineering teams while staying in the code.
 
-At Luxxera I hired four engineers onto a globally distributed team and owned hiring end to end. I set the delivery lifecycle, the coding standards, and the review norms. The result was a three-sided healthcare marketplace that reached $100K MRR within six months of launch on a $500K pre-seed, built to GDPR and HIPAA-equivalent standards on AWS.
+At Luxxera I hired four engineers onto a globally distributed team and owned hiring end to end. I set the delivery lifecycle, the coding standards, and the review norms. The result was a three-sided healthcare marketplace built to prepare for GDPR and HIPAA-equivalent standards on AWS.
 
 Before that I ran a development agency for nearly seven years, so I've watched a lot of ideas go from a napkin to production. I'm a pragmatic builder who listens first, then executes. I focus on what matters and cut through the noise.
 
