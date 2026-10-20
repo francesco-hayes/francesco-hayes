@@ -66,7 +66,7 @@ Before that I ran a development agency for nearly seven years, so I've watched a
 
 ### Featured Projects
 
-- 🏥 [**Luxxera**](https://luxxera.com) · Healthcare marketplace for finding vetted clinics abroad
+- 🏥 [**Luxxera**] · Healthcare marketplace for finding vetted clinics abroad
 - 🎨 [**Alowh**](https://alowh.com) · Development agency portfolio
 - 🏠 [**Real Estate Lubbock**](https://francescohayes.dev/projects/realestatelubbock) · Real estate platform
 - 💒 [**WedAhead**](https://francescohayes.dev/projects/wedahead) · Wedding planning platform
